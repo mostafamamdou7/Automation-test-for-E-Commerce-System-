@@ -54,8 +54,8 @@ public class Apptest {
 								//Registration steps for create a new account
 								//Cart Checkout steps
 								//1-Select “Blouses” Subcategory in “Women” Category
-						        //2-check box of size 
-						        //3-select size M
+						        	//2-check box of size 
+						       		//3-select size M
 								//4-1check box of color white
 								//5-resulted white product
 								//6-Follow checkout procedure
