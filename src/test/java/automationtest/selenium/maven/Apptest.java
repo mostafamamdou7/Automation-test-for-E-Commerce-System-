@@ -14,7 +14,7 @@ public class Apptest {
 		driver.navigate().to("http://automationpractice.com/index.php");
 		driver.manage().window().maximize();
 
-        driver.findElement(By.xpath("//*[@id=\"header\"]/div[2]/div/div/nav/div[1]")).click();
+        	driver.findElement(By.xpath("//*[@id=\"header\"]/div[2]/div/div/nav/div[1]")).click();
 		driver.findElement(By.xpath("//*[@id=\"email_create\"]")).sendKeys("esraa.mohamed10@gmail.com");
 		driver.findElement(By.xpath("//*[@id=\"SubmitCreate\"]")).click();
 		driver.findElement(By.xpath("//*[@id=\"id_gender2\"]")).click();
